@@ -1,0 +1,6 @@
+<?php
+
+define('ACCESS_TOKEN', 'some_token');
+define('TMP_FOLDER', "c:\\tmp\\");
+
+?>
